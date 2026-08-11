@@ -1,4 +1,4 @@
-//**
+/**
  * Amber VPN community-list relay.
  *
  * Purpose: lets EVERY app install (not just the admin's device) publish a
